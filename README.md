@@ -1,8 +1,16 @@
-# Chrome Extension TypeScript Starter
+# google-chat-hangouts-sticker-extension
 
 ![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
 
-Chrome Extension, TypeScript and Visual Studio Code
+🙂 Google Chrome extension to allow to send Google Hangouts stickers
+
+## Development
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/shuuji3/google-chat-hangouts-sticker-extension)
+
+---
+
+TODO(shuuji3): Update README.
 
 ## Prerequisites
 
